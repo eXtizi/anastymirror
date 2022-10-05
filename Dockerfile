@@ -1,4 +1,4 @@
-FROM eXtizi/anastymirror:heroku
+FROM extizi/anastymirror:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
